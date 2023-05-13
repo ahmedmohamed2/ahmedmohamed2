@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, there I'm Ahmed Moahmed</h1>
 <h3 align="center">⭐️ A Backend Web Developer @ Connect Engineering ⭐️</h3>
 
-- ⚡ I'm Ahmed Mohamed and I'm a Backend Web Develper @Co
 - ⚡ Programming Languages: PHP – JavaScript – C#
 - ⚡ Web Development: PHP – Laravel – JavaScript – Ajax – HTML- CSS – jQuery - Bootstrap
 - ⚡ Concepts : OOP – MVC – Hosting - Design Pattern - SOLID
