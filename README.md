@@ -1,10 +1,14 @@
-### Hi there 👋
-## ⭐️ Welcome at Ahmed Mohamed's Profile ⭐️
+<h1 align="center">Hello 👋, there I'm Ahmed Moahmed</h1>
+<h3 align="center">⭐️ A Backend Web Developer @ Connect Engineering ⭐️</h3>
 
-- ⚡ I'm a Backend Web Develoer 
-
-
-
+- ⚡ I'm Ahmed Mohamed and I'm a Backend Web Develper @Co
+- ⚡ Programming Languages: PHP – JavaScript – C#
+- ⚡ Web Development: PHP – Laravel – JavaScript – Ajax – HTML- CSS – jQuery - Bootstrap
+- ⚡ Concepts : OOP – MVC – Hosting - Design Pattern - SOLID
+- ⚡ Familiar With: API - JSON - Linux
+- ⚡ Version Control System: Git & GitHub
+- ⚡ Databases: MySQL - Access
+- ⚡ Other Technical Skills: MCSA - VMware
 
 <!--
 **ahmedmohamed2/ahmedmohamed2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
