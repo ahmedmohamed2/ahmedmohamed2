@@ -37,7 +37,7 @@
   <a href="https://www.php.net/" target="_blank" title="PHP">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   </a>
-  <a href="https://laravel.com/" target="_blank" title="Laravel>
+  <a href="https://laravel.com/" target="_blank" title="Laravel">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
