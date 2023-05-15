@@ -26,7 +26,7 @@
   </a>  
 </p>
 
-## 🛠 Programming Languages
+## 🛠 Programming & Tools
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -37,7 +37,7 @@
   <a href="https://www.php.net/" target="_blank" title="PHP">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   </a>
-  <a href="https://laravel.com/" target="_blank" title="Vue Js">
+  <a href="https://laravel.com/" target="_blank" title="Laravel>
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
