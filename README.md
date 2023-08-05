@@ -14,7 +14,7 @@
 - ⚡ Familiar With: API - JSON - Linux
 - ⚡ Version Control System: Git & GitHub
 - ⚡ Databases: MySQL - Access
-- ⚡ Other Technical Skills: MCSA - VMware (Esxi, WorkStation)
+- ⚡ Other Technical Skills: MCSA - VMware (ESXI, WorkStation)
 - 🌱 Always `Learning new technologies`
 
 ## 📩 Contact with me
