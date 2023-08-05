@@ -7,8 +7,9 @@
 </p>
 
 
-- ⚡ Programming Languages: PHP – JavaScript – C#
+- ⚡ Programming Languages: PHP – JavaScript – Python – C#
 - ⚡ Web Development: PHP – Laravel – JavaScript – Ajax – HTML- CSS – jQuery - Bootstrap
+- ⚡ Desktop Development : C#
 - ⚡ Concepts : OOP – MVC – Hosting - Design Pattern - SOLID
 - ⚡ Familiar With: API - JSON - Linux
 - ⚡ Version Control System: Git & GitHub
