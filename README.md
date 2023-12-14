@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, 👋 I'm Ahmed Mohamed</h1>
-<h3 align="center">⭐️ A Muslim Full Stack Web Developer ⭐️</h3>
+<h3 align="center">⭐️ A Muslim Backend Web Developer ⭐️</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ahmedmohamed2&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmohamed2" />
