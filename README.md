@@ -7,15 +7,15 @@
 </p>
 
 
-- ⚡ Programming Languages: PHP – JavaScript – Python – C#
-- ⚡ Web Development: PHP – Laravel – JavaScript – Ajax – HTML- CSS – jQuery - Bootstrap
-- ⚡ Desktop Development : C#
-- ⚡ Concepts : OOP – MVC – Hosting - Design Pattern - SOLID
-- ⚡ Familiar With: API - JSON - Linux
-- ⚡ Version Control System: Git & GitHub
-- ⚡ Databases: MySQL - Access
-- ⚡ Other Technical Skills: MCSA - VMware (ESXI, WorkStation)
-- 🌱 Always `Learning new technologies`
+- 🚀 **Programming Languages**: PHP, JavaScript, Python, C#
+- 🌐 **Web Development**: PHP (Laravel), JavaScript (Ajax), HTML, CSS, jQuery, Bootstrap
+- 🖥️ **Desktop Development**: C#
+- 🧠 **Concepts**: Object-Oriented Programming (OOP), Model-View-Controller (MVC), Hosting, Design Patterns, SOLID principles
+- 🔍 **Familiar With**: API Integration, JSON Parsing, Linux
+- 📝 **Version Control**: Git & GitHub
+- 💾 **Databases**: MySQL, Microsoft Access
+- 🛠️ **Other Technical Skills**: MCSA (Microsoft Certified Solutions Associate), VMware (ESXi, WorkStation)
+- 🌱 **Always Learning**: Passionate about exploring new technologies and expanding skill set.
 
 ## 📩 Contact with me
 <p align="left">
