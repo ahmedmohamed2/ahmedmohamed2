@@ -119,7 +119,7 @@
 ## 🎛 Statistics
 <p>
   <a href="#" target="_blank" title="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmedmohamed2&theme=blue-green" alt="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmedmohamed2&theme=one_dark_pro" alt="#">
   </a>   
 
   <a href="#" target="_blank" title="#">
